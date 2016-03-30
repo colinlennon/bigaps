@@ -1,0 +1,3 @@
+MMOL/L FIX
+Edited /usr/local/lib/python2.7/dist-packages/decocare-0.0.22-py2.7.egg/decocare/models/__init__.py - 
+ - edited one line relating to model 722 (original line retained but commented out)
